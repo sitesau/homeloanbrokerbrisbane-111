@@ -1,0 +1,22 @@
+{
+  "wheel_id": 635,
+  "structure": "umbrella",
+  "slug": "homeloanbrokerbrisbane-111",
+  "project": "home-loan-brokers-brisbane-first-home-a6ce293241a9b9350a272ea3a",
+  "parent_t1_ref": "homeloanbrokerbrisbane-154",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokerbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane first home",
+  "intended_url": "https://sitesau.github.io/homeloanbrokerbrisbane-111/",
+  "tier": "T2",
+  "writeback_nonce": "96ea2675251f7b85",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-brokers-brisbane-5a1dcd75d71f363e0273de4c9356de248/",
+      "anchor": "more on home loan brokers brisbane",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
